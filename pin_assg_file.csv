@@ -1,0 +1,14 @@
+To,Location
+clk,PIN_AF14
+leds[9],PIN_Y21
+leds[8],PIN_W21
+leds[7],PIN_W20
+leds[6],PIN_Y19
+leds[5],PIN_W19
+leds[4],PIN_W17
+leds[3],PIN_V18
+leds[2],PIN_V17
+leds[1],PIN_W16
+leds[0],PIN_V16
+rst_n,PIN_AD10
+switch,PIN_AE12
